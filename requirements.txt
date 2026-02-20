@@ -1,0 +1,5 @@
+numpy
+pygame
+PyQt6
+comtypes; platform_system == "Windows"
+pycaw; platform_system == "Windows"
