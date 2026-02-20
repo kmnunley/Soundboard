@@ -1,4 +1,5 @@
-> **Disclaimer:** This repository is entirely AI-developed and is being used as a testbed to evaluate the coding capabilities of various LLMs.
+> [!IMPORTANT]
+> This repository is entirely AI-developed and is being used as a testbed to evaluate the coding capabilities of various LLMs. PRs from the general public are disabled.
 
 # Soundboard
 
